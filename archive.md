@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: Archive 
+title: Archive
 description: See stuff from previous years!
 
 # Micro navigation
@@ -21,6 +21,6 @@ page_nav:
 grid_navigation:
     - title: IAP 2023
       cta: Read more
-      url: 'IAP2023'
+      url: 'archieve/IAP2023'
 
 ---

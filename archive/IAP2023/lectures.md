@@ -32,11 +32,11 @@ description: Lectures are held MWF 1-2:30 in 34-101. Recordings are posted rough
 
 #### Lecture 01 - Design as an Art + Process
 
-- [content](lecture_01) [video](https://www.youtube.com/watch?v=tYbshePrX4I)
+- [content](./lecture_01) [video](https://www.youtube.com/watch?v=tYbshePrX4I)
 
 #### Lab 01 - Introduction to Altium Designer
 
-- [content](lab_01)
+- [content](./archive/IAP2023/lectures/lab_01)
 
 #### Lecture 02 - PCB Structure, Components, Schematic Capture
 

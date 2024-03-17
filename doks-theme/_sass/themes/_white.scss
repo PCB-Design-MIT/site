@@ -1,0 +1,44 @@
+/**
+ * White (themes/_white.scss)
+ */
+
+/* ----- Hero subheader ----- */
+.white {
+	.hero-subheader {
+		background-color: $color-theme-white;
+	}
+}
+
+/* ----- Nav grid ----- */
+.white {
+	.nav-grid__item {
+		background-color: $color-theme-white;
+
+		&:hover,
+		&:active,
+		&:focus {
+			background-color: $color-theme-white;
+		}
+	}
+}
+
+/* ----- Section ----- */
+.white {
+	.section--darker-theme-color-bg {
+		background-color: $color-theme-white;
+	}
+}
+
+/* ----- Page nav ----- */
+.white {
+	.page-nav {
+		background-color: $color-theme-white;
+	}
+}
+
+/* ----- Error 404 ----- */
+.white {
+	&.error-404 {
+		background-color: $color-theme-white;
+	}
+}

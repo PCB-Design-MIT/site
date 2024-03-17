@@ -1,0 +1,8 @@
+# Don't put these files into the Git repo! Put them in the Google Drive instead!
+*.pdf
+*.key
+*.ppt
+*.pptx
+*.mp4
+*.avi
+*.raw

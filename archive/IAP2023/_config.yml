@@ -1,0 +1,46 @@
+# Theme settings
+doks:
+    baseurl:
+    color_theme: white # Available themes: blue (default), green, purple, red and yellow
+    header:
+        logo:
+            text:
+            image: true
+        nav:
+            - item_name: Lectures
+              item_url: '/lectures'
+            - item_name: Schedule
+              item_url: '/schedule'
+            - item_name: Altium 365
+              item_url: 'https://mit-pcb.365.altium.com:443'
+              external_url: true
+    footer:
+        content:
+            logo:
+                text: Made with ❤️ by Fischer and Adi
+                image:
+            copyright: Released under a CC-BY-SA-4.0 license.
+    #     social_list:
+    #         - network_name: facebook
+    #           profile_url: '#'
+    #         - network_name: twitter
+    #           profile_url: '#'
+    #         - network_name: instagram
+    #           profile_url: '#'
+    #         - network_name: youtube
+    #           profile_url: '#'
+    # google_analytics:
+    #     tracking_code: # Add your Google Analytics tracking code to activate Google Analytics
+    # comments:
+    #     disqus_forum_shortname: # Add your disqus forum shortname to activate comments
+
+# SASS settings
+sass:
+    sass_dir: ./doks-theme/_sass
+    style: :compressed
+
+# Jekyll settings
+layouts_dir: ./doks-theme/_layouts
+includes_dir: ./doks-theme/_includes
+exclude: [ 'README.md', 'CHANGELOG.md' ]
+permalink: /:title/

@@ -26,37 +26,37 @@ grid_navigation:
     - title: Mission and Syllabus
       excerpt: What we're trying to do, and how we'll do it.
       cta: Read more
-      url: './syllabus'
+      url: 'archive/IAP2023/syllabus'
 
     - title: FAQ
       excerpt: Frequently Asked Questions
       cta: Read more
-      url: './faq'
+      url: 'archive/IAP2023/faq'
 
     - title: Lectures
       excerpt: Content and resources.
       cta: Read more
-      url: './lectures'
+      url: 'archive/IAP2023/lectures'
 
     - title: Schedule
       excerpt: Deadlines and logistics.
       cta: Read more
-      url: './schedule'
+      url: 'archive/IAP2023/schedule'
 
     - title: Technical Resources
       excerpt: Where we go for inspiration or when we don't know things.
       cta: Read more
-      url: './resources'
+      url: 'archive/IAP2023/resources'
 
     - title: Projects
       excerpt: Projects from students enrolled in either Track 2 or Track 3.
       cta: Read more
-      url: './projects'
+      url: 'archive/IAP2023/projects'
 
     - title: Gallery
       excerpt: Us lookin' cute :)
       cta: Read more
-      url: './gallery'
+      url: 'archive/IAP2023/gallery'
 
     - title: Contact us
       excerpt: Feel free to reach out :)

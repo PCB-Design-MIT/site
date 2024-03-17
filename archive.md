@@ -21,6 +21,6 @@ page_nav:
 grid_navigation:
     - title: IAP 2023
       cta: Read more
-      url: 'archieve/IAP2023'
+      url: 'archive/IAP2023'
 
 ---

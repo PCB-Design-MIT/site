@@ -1,7 +1,5 @@
 # Theme settings
 doks:
-    baseurl: /
-    url: pcb-design-mit.github.io/site
     color_theme: white # Available themes: blue (default), green, purple, red and yellow
     header:
         logo:
